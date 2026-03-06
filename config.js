@@ -1,103 +1,107 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $250 Dinner & Pints for Two at Patina Brewing",
+    "navBrandLogoText": "Liam Thomas",
+    "privacyPolicyLink": "https://atlasgrouprealty.ca/site/privacy-terms"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>Dinner + Pints for Two</span> at <span class='highlight'>Patina Brewing</span> in Port Coquitlam!",
+    "heroSubheadline": "Enjoy a $250 night out. Great BBQ. Fresh craft beer. Chill vibes. Entry ends April 24, 2026.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fms1ywrzfxrmr0cwr7dabea568.jpg",
+    "promotionDates": "Enter March 10, 2026 to April 24, 2026. Winner announced April 24, 2026.",
+    "endDate": "2026-04-25T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "BBQ and Brews for Two",
+    "successModalHeaderText": "You are in the running!",
+    "successModalMainMessage": "Your entry for the <strong>BBQ and Brews for Two</strong> giveaway is in. We will draw the winner on April 24, 2026 and email them. Good luck!",
+    "successModalEmailPrompt": "Watch your inbox on April 24. Follow us on Instagram and Facebook for the winner post."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#0B1B2B",
+      "#F2C94C",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "#F2C94C",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>BBQ and Brews for Two</strong> giveaway is in. We will draw the winner on April 24, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your inbox on April 24. Follow us on Instagram and Facebook for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w3atk76k89rmt0cwr7d8s9z9c8.jpg",
+        "alt": "Couple clinking beer glasses at a Port Coquitlam brewery"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/egjq9fxeg9rmy0cwr7dvc1eh68.jpg",
+        "alt": "BBQ platter with sides on a wooden table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w8ft76vy3srmy0cwr7e8xwa3xr.jpg",
+        "alt": "Live music night at a local brewery"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/dbp2a247wxrmy0cwr7etnmrf7c.jpg",
+        "alt": "Dog relaxing with owners on a sunny patio"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-beer",
+        "text": "Enjoy craft pints brewed on site"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-drumstick-bite",
+        "text": "Savour tasty BBQ and comfort food"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-gift",
+        "text": "Up to $250 toward food and drinks"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-music",
+        "text": "Fun, laid back vibe with events on select nights"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-dog",
+        "text": "Dog friendly patio when the weather warms up"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "BBQ and Brews for Two",
+    "value": "$250 Value",
+    "description": "Picture this: a cozy table at Patina. Two cold pints. Warm BBQ plates. Laughter. Maybe live music. Bring a small game and unwind. When the sun is out, the dog friendly patio is perfect. This is a simple, fun date night in the heart of Port Coquitlam.",
+    "limitedTimeOfferText": "Local Date Night Giveaway, Ends Soon!",
+    "ctaButtonText": "I Want This Night Out!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-instagram",
-        "title": "Follow Instagram Account",
-        "description": "Follow our Instagram account to stay connected and get updates on the giveaway."
+        "icon": "fas fa-edit",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @therealatlasgroup"
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us a bit about your home plans."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered!",
+        "description": "We pick a random winner on April 24. Watch your email."
       }
     ],
     "highlights": [
@@ -120,158 +124,161 @@ const config = {
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. British Columbia residents only, must be 19 or older. One entry per person.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "BC residents who are 19+ can enter. One entry per person."
+      },
+      {
+        "q": "Is this run by Patina Brewing?",
+        "a": "No. This giveaway is hosted by Liam Thomas, REALTOR at Stonehaus Realty Corp. It is not sponsored by Patina Brewing, Instagram, or Facebook."
+      },
+      {
+        "q": "What do I win?",
+        "a": "A $250 night out for two at Patina Brewing in Port Coquitlam. Enjoy food and drinks up to the prize value."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "a": "We will email you on April 24, 2026. Make sure your email is correct."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I need to be a client?",
+        "a": "No purchase needed. Just enter and have fun."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Any tips for the night?",
+        "a": "Come hungry. Try a fresh pint. Bring a small game. Enjoy the chill vibe."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double check your email before you submit",
+      "Follow @therealatlasgroup for updates and the winner post",
+      "Share this with a friend who loves BBQ and beer",
+      "Enter early so you do not forget before April 24"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random draw. Every valid entry has the same chance. No tricks. Just fair play."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will email the winner on April 24, 2026. Check your inbox and spam. We will also post on our social pages."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-585.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-585.netlify.app%2Fadmin&text=Win%20%24250%20Dinner%20and%20Pints%20for%20Two%20at%20Patina%20Brewing"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for your chance to win this $250 Port Coquitlam night out!",
+    "entryCountText": "Locals are entering now, do not miss your chance!",
+    "socialSharePrompt": "Know someone who loves BBQ and craft beer? Share this giveaway!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1750445840887_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1750445840887_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
+        },
+        {
+          "value": "Staying put",
+          "text": "Staying put"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1750445840887_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
+        },
+        {
+          "value": "No plans",
+          "text": "No plans"
         }
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/profile.php?id=61567311449154",
+      "instagram": "https://www.instagram.com/therealatlasgroup"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Liam Thomas",
+      "title": "REALTOR",
+      "phone": "6044406211",
+      "email": "liam@atlasgrouprealty.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Liam Thomas at Stonehaus Realty Corp and is not affiliated with Patina Brewing, Instagram, or Facebook. No purchase necessary. British Columbia residents only. Must be 19+. One entry per person. Entries close 2026-04-24 at 11:59 PM PT. Winner selected at random on 2026-04-24. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771907087894-Atlas Group-01.jpg",
+    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771907087894-Atlas Group-01.jpg",
+    "secondaryLogoAlt": "Atlas Group",
+    "organizerName": "Atlas Group",
+    "brokerageName": "Stonehaus Realty Corp",
+    "address": "A-1126 Austin Ave, Coquitlam, BC, V3K 3P5, Canada",
+    "email": "liam@atlasgrouprealty.ca",
+    "phone": "6044406211",
+    "copyrightOwner": "Liam Thomas"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-585",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-585",
+    "netlifyUrl": "http://Giveaway-585.netlify.app",
+    "netlifyId": "1174174475",
+    "tag": "BBQ and Brews Giveaway"
   }
 };
