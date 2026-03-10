@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773154772619_0",
+      "id": "q_auto_1773155255652_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773154772619_1",
+      "id": "q_auto_1773155255652_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773154772619_2",
+      "id": "q_auto_1773155255652_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -255,9 +255,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>BBQ and Brews for Two</strong> giveaway is in. We will draw the winner on April 24, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your inbox on April 24. Follow us on Instagram and Facebook for the winner post."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the <strong>BBQ and Brews for Two</strong> giveaway is in. Complete your entry below to be eligible for the April 24 draw.",
+    "socialPromptText": "Follow @therealatlasgroup on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
     "social": {
