@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Dinner + Pints for Two</span> at <span class='highlight'>Patina Brewing</span> in Port Coquitlam!",
     "heroSubheadline": "Enjoy a $250 night out. Great BBQ. Fresh craft beer. Chill vibes. Entry ends April 24, 2026.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fms1ywrzfxrmr0cwr7dabea568.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-PortCoquitlam..jpg",
     "promotionDates": "Enter March 10, 2026 to April 24, 2026. Winner announced April 24, 2026.",
     "endDate": "2026-04-25T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,29 +28,24 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#F2C94C",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>BBQ and Brews for Two</strong> giveaway is in. We will draw the winner on April 24, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your inbox on April 24. Follow us on Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w3atk76k89rmt0cwr7d8s9z9c8.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-PortCoquitlam.avif",
         "alt": "Couple clinking beer glasses at a Port Coquitlam brewery"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/egjq9fxeg9rmy0cwr7dvc1eh68.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w8ft76vy3srmy0cwr7e8xwa3xr.jpg",
         "alt": "BBQ platter with sides on a wooden table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w8ft76vy3srmy0cwr7e8xwa3xr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/egjq9fxeg9rmy0cwr7dvc1eh68.jpg",
         "alt": "Live music night at a local brewery"
       },
       {
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. British Columbia residents only, must be 19 or older. One entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -158,6 +151,8 @@ const config = {
       "Share this with a friend who loves BBQ and beer",
       "Enter early so you do not forget before April 24"
     ],
+    "finePrintText": "Please read the fine print before entering. British Columbia residents only, must be 19 or older. One entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw. Every valid entry has the same chance. No tricks. Just fair play."
@@ -178,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1773154772619_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -200,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1773154772619_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1773154772619_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -252,6 +247,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>BBQ and Brews for Two</strong> giveaway is in. We will draw the winner on April 24, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your inbox on April 24. Follow us on Instagram and Facebook for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61567311449154",
