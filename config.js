@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win $250 Dinner & Pints for Two at Patina Brewing",
-    "navBrandLogoText": "Liam Thomas",
+    "navBrandLogoText": "The Atlas Group",
     "privacyPolicyLink": "https://atlasgrouprealty.ca/site/privacy-terms"
   },
   "giveaway": {
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773155255652_0",
+      "id": "q_auto_1773431703960_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773155255652_1",
+      "id": "q_auto_1773431703960_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773155255652_2",
+      "id": "q_auto_1773431703961_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
