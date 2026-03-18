@@ -85,8 +85,8 @@ const config = {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Follow me on Instagram",
-        "description": "Follow me @therealatlasgroup"
+        "title": "Follow us on Instagram",
+        "description": "Follow us @therealatlasgroup"
       },
       {
         "icon": "fas fa-question-circle",
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773431703960_0",
+      "id": "q_auto_1773830884232_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773431703960_1",
+      "id": "q_auto_1773830884232_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773431703961_2",
+      "id": "q_auto_1773830884232_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -270,7 +270,7 @@ const config = {
       "phone": "6044406211",
       "email": "liam@atlasgrouprealty.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Liam Thomas at Stonehaus Realty Corp and is not affiliated with Patina Brewing, Instagram, or Facebook. No purchase necessary. British Columbia residents only. Must be 19+. One entry per person. Entries close 2026-04-24 at 11:59 PM PT. Winner selected at random on 2026-04-24. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is hosted by Angelo Manousiadis and Liam Thomas of the Atlas Group at Stonehaus Realty and is not affiliated with Patina Brewing, Instagram, or Facebook. No purchase necessary. British Columbia residents only. Must be 19+. One entry per person. Entries close 2026-04-24 at 11:59 PM PT. Winner selected at random on 2026-04-24. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771907087894-Atlas Group-01.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771907087894-Atlas Group-01.jpg",
     "secondaryLogoAlt": "Atlas Group",
